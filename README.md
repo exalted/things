@@ -13,14 +13,13 @@ Games
 
 ### [Braid](http://braid-game.com)
 
- * [ ] foo
- * [ ] bar
-
 
 ### [Machinarium](http://machinarium.net)
 
 
-### [Limbo](http://limbogame.org)
+### [Limbo](http://limbogame.org) :star::star::star:
+
+Nice and curious, a bit too short though.
 
 
 ### [Any Yet It Moves](http://www.andyetitmoves.net)
