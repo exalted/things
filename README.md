@@ -17,7 +17,7 @@ Games
 ### [Machinarium](http://machinarium.net)
 
 
-### [Limbo](http://limbogame.org) :star::star::star:
+### [Limbo](http://limbogame.org) :star::star::star::star:
 
 Nice and curious, a bit too short though.
 
