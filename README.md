@@ -29,3 +29,9 @@ Nice and curious, a bit too short though.
 
 
 ### [BIT.TRIP](http://bittripgame.com)
+
+
+### [Portal](http://www.valvesoftware.com/games/portal.html)
+
+
+### [Portal 2](http://www.valvesoftware.com/games/portal2.html)
